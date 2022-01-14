@@ -1,0 +1,7 @@
+name = "SassCompiler"
+uuid = "abad7c2b-6343-4a63-89e3-60c8122296f0"
+authors = ["Hannes <h@nnes.dev>"]
+version = "0.1.0"
+
+[deps]
+NodeJS = "2bd173c7-0d6d-553b-b6af-13a54713934c"
